@@ -1,0 +1,40 @@
+.heading {
+    font-size:22px;
+    width:90%;
+    margin-top:1px;
+    box-shadow:5px 5px 5px yellowgreen;
+    border-radius: 15px;
+    white-space:inherit;
+}
+.NOTE{
+    font-size: 16px;
+    color:coral;
+    
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+.footer{
+    bottom: 0;
+    position:absolute;
+    width: 100%;
+    line-height:2;
+    left: 0;
+}
+.smile1{
+    background-color: blueviolet;
+    border-radius: 100px;
+    width: 5%;
+}
+.smile2{
+    background-color: blueviolet;
+    border-radius: 100px;
+    width: 5%;
+}
+
+.heading ,.smile1, .smile2{
+    float: left;
+
+}
